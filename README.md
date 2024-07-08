@@ -1,5 +1,5 @@
-# facefusion-onnx-main-win
-基于facefusion-onnx-main项目封装的Windows软件，可以一键换脸，无需显卡，无需联网，性能要求低，出图快
+# facefusion-win
+基于facefusion-onnxruntime项目封装的Windows程序，可以一键换脸，无需显卡，无需联网，性能要求低，出图快
 
 # 下载
 ```
